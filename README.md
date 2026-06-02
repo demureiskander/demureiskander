@@ -9,14 +9,23 @@
   <img src="https://komarev.com/ghpvc/?username=demureiskander&style=flat-square&color=FF8A3D" alt="views">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ---
 
 ### 👋 About me
 
 - 🎨 UI/UX и Game UI дизайнер, графика и брендинг — в дизайне с 2019.
 - 🐍 Python-разработчик: Telegram-боты (aiogram), небольшие веб-приложения.
-- 🧩 Люблю связку **дизайн + код**: не только придумываю, но и собираю.
-- 🏛 Студент, направление Маркетинг.
+- 🧩 Люблю связку **дизайн + код**: не только рисую, но и собираю.
+- 🏛 Студент РГГУ (Москва), направление «Реклама и связи с общественностью».
+- 💼 Сейчас: Tozza, TandemParty, Bateleur (Game UI).
 
 ---
 
@@ -38,35 +47,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=demureiskander&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demureiskander&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=demureiskander&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demureiskander&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
-
----
-
-### 🟡 Contribution graph — Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph.svg">
-</picture>
-
-<!-- Граф появится после первого запуска экшена (.github/workflows/pacman.yml) -->
 
 ---
 
