@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph-dark.svg?v=3" width="100%">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph.svg?v=4" width="100%">
 </p>
 
 ---
