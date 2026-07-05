@@ -1,11 +1,10 @@
-# Положи этот файл по пути: .github/workflows/pacman.yml
-# в репозитории demureiskander/demureiskander
+# Путь в репозитории: .github/workflows/pacman.yml
 name: generate pacman contribution graph
 
 on:
   schedule:
     - cron: '0 0 * * *'   # каждый день в 00:00 UTC
-  workflow_dispatch:        # можно запустить вручную (вкладка Actions → Run workflow)
+  workflow_dispatch:        # ручной запуск (Actions → Run workflow)
   push:
     branches:
       - main
@@ -16,6 +15,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      # GitHub форсит Node 24, а экшены написаны под Node 20 — эта строка
+      # возвращает им Node 20, иначе dist не создаётся ("Build dir does not exist").
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: 'true'
     steps:
       - name: generate pacman SVGs
         uses: abozanona/pacman-contribution-graph@main
