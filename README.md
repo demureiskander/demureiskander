@@ -10,7 +10,10 @@
 </p>
 
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demureiskander/demureiskander/output/pacman-contribution-graph.svg?v=4" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demureiskander/demureiskander/output/github-snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/demureiskander/demureiskander/output/github-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
